@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+	public void testHasMethodTest() {
+		assertTrue(new App().test());
+	}
 }
