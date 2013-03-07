@@ -12,6 +12,6 @@ public class App
     }
 	
 	public boolean test() {
-		return false;
+		return true;
 	}
 }
