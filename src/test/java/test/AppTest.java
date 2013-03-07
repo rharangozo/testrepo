@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+	public void testTest() {
+		assertTrue(new App().test2());
+	}
 }
