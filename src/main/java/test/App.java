@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+	
+	public boolean test2() {
+		return false;
+	}
 }
